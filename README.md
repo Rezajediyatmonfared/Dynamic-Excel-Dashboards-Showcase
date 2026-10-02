@@ -57,9 +57,6 @@ A curated portfolio of 6 interactive, business-driven Excel dashboards designed 
 - **Interactive UI/UX:** Form Controls, Timeline Slicers, Dynamic Array formulas (`INDEX/MATCH`, `XLOOKUP`, `FILTER`), Conditional Rules
 - **Visualization:** Pareto analysis, Bullet graphs, Trend analysis, KPI Scorecards
 
----
 
-## 📬 Contact
-- **Author:** [نام شما]
-- **LinkedIn:** [لینک لینکدین شما]
-- **Email:** [ایمیل شما]
+
+
