@@ -1,10 +1,3 @@
-<!-- Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Project_Management-E11900?style=for-the-badge&logo=project-management&logoColor=white" alt="PM">
-  <img src="https://img.shields.io/badge/Data_Visualization-0078D4?style=for-the-badge&logo=power-bi&logoColor=white" alt="BI">
-</div>
-
 # AWAX Production Stages Dashboard
 
 ## 📌 Executive Summary
@@ -54,6 +47,4 @@ This dashboard is engineered using professional data modeling standards:
 
 ---
 
-<div align="center">
-  <p>Designed for precision monitoring of AWAX production workflows.</p>
-</div>
+
