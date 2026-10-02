@@ -68,7 +68,4 @@ The dashboard features an interactive **Main Menu Interface (Navigation Hub)** t
 
 ---
 
-## 👤 Author & Contact
-- **Project Developer:** [Your Name]
-- **LinkedIn:** [Insert Link]
-- **Portfolio Repository:** [Insert Link]
+
