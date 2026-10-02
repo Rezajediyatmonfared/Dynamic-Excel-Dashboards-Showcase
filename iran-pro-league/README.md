@@ -62,8 +62,4 @@ This dashboard demonstrates advanced Excel engineering principles:
 
 ---
 
-## 👤 Author & Contact
-- **Project Developer:** [Your Name]
-- **LinkedIn:** [Insert Link]
-- **Portfolio Repository:** [Insert Link]
 
