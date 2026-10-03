@@ -8,7 +8,7 @@ The **AWAX Production Stages** project is a comprehensive Business Intelligence 
 ## 🎥 Dashboard Preview
 The modular interface ensures seamless navigation between different project levels:
 
-![AWAX Production Stages](standard-compliance.gif)
+![AWAX Production Stages](Standard.gif)
 
 ---
 
